@@ -1,0 +1,6 @@
+langchain[openai]
+langchain_community
+ipykernel
+python-dotenv
+scikit-image
+matplotlib
