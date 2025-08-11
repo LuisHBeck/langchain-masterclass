@@ -4,3 +4,4 @@ ipykernel
 python-dotenv
 scikit-image
 matplotlib
+google-search-results
